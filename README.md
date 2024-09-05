@@ -2,6 +2,9 @@
 
 Welcome to the **My Movie List** app! This project allows users to search for movies, add them to a personal list, and store the list locally using `localStorage`. Built with modern web technologies, this app is a fun and functional tool for movie enthusiasts.
 
+Check out Demo [My Movie List App](https://my-movie-listapp.netlify.app/) on Netlify.
+
+
 ![App Screenshot](https://raw.githubusercontent.com/CodeFiroz/mymovielist/main/preview.jpeg)
 
 ## 🚀 Features
